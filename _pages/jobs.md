@@ -7,7 +7,7 @@ author_profile: true
 ### Research Intern · Columbia University, Department of Psychiatry
 *New York, NY · June 2026 - Present*
 
-- Identified 3 statistically significant brain–behavior relationships across 518 tests using FDR correction, each explaining 18–20% incremental variance beyond baseline covariates in 78 participants
+- Identified 3 statistically significant brain–behavior relationships across 518 tests using FDR correction, each explaining 21.5% incremental variance beyond baseline covariates in 78 participants
 - Applied regression and PCA to high-dimensional diffusion MRI, clinical and behavioral data; performed quality control and co-authored a manuscript translating structural network findings into clinically relevant insights
 
 ### Business Analyst · Rizontek Inc.
