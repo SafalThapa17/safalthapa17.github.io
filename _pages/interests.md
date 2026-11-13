@@ -39,4 +39,4 @@ I want to apply my background in statistics and Python to financial problems, su
 | Statistics | Regression, hypothesis testing, time-series analysis|
 | Finance | Backtesting, portfolio construction, performance metrics (Sharpe ratio, drawdown) |
 | Machine learning | Supervised learning, cross-validation, feature engineering |
-| Programming | Python ([NumPy, pandas, scikit-learn]), SQL, C++ |
+| Programming | Python (NumPy, pandas, scikit-learn), R, SQL, C++ |
