@@ -54,7 +54,7 @@ How should a small retailer decide when to reorder stock? I simulated random cus
 
 We compared six classical and ensemble classifiers, including logistic regression, KNN, decision trees, random forests and boosting, on 70,000 patient records from Kaggle's cardiovascular disease dataset. We added five clinically motivated engineered features and evaluated models on accuracy, precision, recall and AUC, using cross-validation and bootstrapping. Boosting models performed best, which supports their use in primary-care screening.
 
-[Report(PDF)](/files/cardiovascular-disease-prediction.pdf)
+[Report (PDF)](/files/cardiovascular-disease-prediction.pdf)
 
 ---
 ## Symposiums and Presentations
