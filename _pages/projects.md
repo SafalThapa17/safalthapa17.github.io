@@ -10,6 +10,9 @@ author_profile: true
 *M.S. in Data Science and Engineering · The City College of the City University of New York  · 2026 
 · Advisors: Professor Dongrong Xu, Professor Zhigang Zhu*
 
+**Summary:**
+This thesis tests whether the structure of brain networks predicts impulsive behavior in a virtual reality task among patients with major depressive disorder (MDD). Three brain–behavior associations remained significant after correcting for 518 statistical tests.
+
 **Objectives:** 
 In this thesis, we focused on four main questions. First, whether structural brain network measures from DTI can predict impulsive behavior in a VR shooting task in patients with MDD. Second, whether more detailed network measures, such as nodal betweenness, hub disruption, rich-club coefficient, within-module z-score, and participation coefficient, can explain additional information beyond the global metrics. Third, whether pre-shot motor features are related to clinical severity. And finally, which pre-shot time window works best for predicting clinical outcomes.
 
@@ -18,11 +21,11 @@ We started with 181 preprocessed diffusion-weighted neuroimaging datasets from c
 (i) a confirmed MDD diagnosis; 
 (ii) complete DWI data with a successfully reconstructed
 structural connectome; and 
-(iii) complete VR task data. The final sample included 78
-MDD patients (59 females, 19 males; age range 12–38 years, mean = 19.8, SD (standard deviation) = 6.4; mean HDRS = 17 (Hamilton Depression Rating Scale -17 items), indicating severe depression; mean BIS-11 (Barratt Impulsiveness Scale, Edition 11) score = 94.3, above the high-impulsivity threshold of 72).
+(iii) complete VR task data. 
 
-**Findings:** Three brain–VR associations remained significant after FDR correction. Right inferior frontal gyrus betweenness centrality showed a positive association with collimation timer performance (β = 2.72, q = 0.002, ΔR² = 21.5%). Characteristic path length and clustering coefficient were also significantly related to collimation timer outcomes (q < 0.01). These effects remained stable in age adjusted analyses. Path length and clustering effects were stronger in adolescent patients (n = 41) compared to adults (n = 37). The frontal betweenness effect was consistent across both age groups. In the expanded nodal analysis, we found 81 significant associations. The strongest effects came from left temporal pole local efficiency and cerebellar degree, both related to collimation timer performance. Within-module Z-score was also related to BIS-11 total (ρ = +0.34, p = 0.002) and motor impulsivity (ρ = +0.32, p = 0.004). We also found that a VR-based cognitive impulsivity composite was positively associated with suicidal ideation (ρ = +0.37, q = 0.024).
-Partial least squares showed a significant brain–behavior relationship (r = 0.459, p < 0.001). Ridge regression explained about 24% of the variance in suicidal ideation. The pre-shot window analysis showed a fairly stable pattern across 0.2–0.8 seconds, which supports using the 0.6-second reference window.
+The final sample included 78 MDD patients (59 females, 19 males; age range 12–38 years, mean = 19.8, SD (standard deviation) = 6.4; mean HDRS = 17 (Hamilton Depression Rating Scale -17 items), indicating severe depression; mean BIS-11 (Barratt Impulsiveness Scale, version 11) score = 94.3, above the high-impulsivity threshold of 72).
+
+**Findings:** Three brain–VR associations remained significant after FDR correction. Right inferior frontal gyrus betweenness centrality showed a positive association with collimation timer performance (β = 2.72, q = 0.002, ΔR² = 21.5%). Characteristic path length and clustering coefficient were also significantly related to collimation timer outcomes (q < 0.01). These effects remained stable in age-adjusted analyses. Path length and clustering effects were stronger in adolescent patients (n = 41) compared to adults (n = 37). The frontal betweenness effect was consistent across both age groups. In the expanded nodal analysis, we found 81 significant associations. The strongest effects came from left temporal pole local efficiency and cerebellar degree, both related to collimation timer performance. Within-module Z-score was also related to BIS-11 total (ρ = +0.34, p = 0.002) and motor impulsivity (ρ = +0.32, p = 0.004). We also found that a VR-based cognitive impulsivity composite was positively associated with suicidal ideation (ρ = +0.37, q = 0.024). Partial least squares showed a significant brain–behavior relationship (r = 0.459, p < 0.001). Ridge regression explained about 24% of the variance in suicidal ideation. The pre-shot window analysis showed a fairly stable pattern across 0.2–0.8 seconds, which supports using the 0.6-second reference window.
 
 [Thesis (PDF)](/files/thesis.pdf)
 
@@ -41,17 +44,15 @@ Scanned forms present a unique challenge for natural language processing: the me
 ### Inventory Simulation and Statistical Analysis in R
 *DSE I1030: Applied Statistics · Fall 2024*
 
-Exploring different strategy for inventory problems with visualization in R language 
-Predicting Cardiovascular Disease Using Classification Models
-and Ensemble Learning
+How should a small retailer decide when to reorder stock? I simulated random customer arrivals and compared ordering strategies over one month, one quarter and one year, weighing profit per sale against the cost of lost sales and of holding excess stock. The project is written in R, with visualizations in ggplot2.
 
 [Report](https://github.com/SafalThapa17/InventorySimulation-and-Statistical-Analysis/blob/92d847d738c3339e233dc9261a29c663feef930b/Safal_Thapa_Project%201_Part_.pdf)
 
 ---
 ### Predicting Cardiovascular Disease Using Classification Models and Ensemble Learning
-*DSE I2100 Applied Machine Learning and Data Mining · Fall 2025 *
+*· Group Project · DSE I2100 Applied Machine Learning and Data Mining · Fall 2025 *
 
-Predicting Cardiovascular Disease Using Classification Models and Ensemble Learning
+We compared six classical and ensemble classifiers, including logistic regression, KNN, decision trees, random forests and boosting, on 70,000 patient records from Kaggle's cardiovascular disease dataset. We added five clinically motivated engineered features and evaluated models on accuracy, precision, recall and AUC, using cross-validation and bootstrapping. Boosting models performed best, which supports their use in primary-care screening.
 
 [Report(PDF)](/files/Safal_Saar_Predicting_Cardiovascular_disease_using_classification_models-FINAL.pdf)
 
@@ -59,8 +60,8 @@ Predicting Cardiovascular Disease Using Classification Models and Ensemble Learn
 ## Symposiums and Presentations
 
 ### Exploring the Intersection of Data and Art
-*Big Data, Spring 25 · The City College of the City University of New York · 2025*
+*Big Data course symposium · The City College of the City University of New York · Spring 2025*
 
-Big Data course class symposium on intersection of Data and Art.
+A class symposium presentation on the intersection of data and art.
 
 [Slides](https://github.com/SafalThapa17/Big-Data_2025/blob/954eca49b5008539449efd1b6b2a159977f79b77/Symposium/Symposium_Presentation.pdf)
