@@ -4,7 +4,7 @@ title: "Experience"
 author_profile: true
 ---
 
-### Quantitative Research Intern · Columbia University, Department of Psychiatry
+### Research Intern · Columbia University, Department of Psychiatry
 *NY, USA · June 2026 - Present*
 
 - Identified 3 statistically significant brain-behavior relationships across 518 tests using FDR correction, with
