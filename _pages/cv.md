@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * MS in Data Science & Engineering, CUNY City College | 2024 - 2026 | GPA: 3.84/4.0  | New York, NY
-* Computer Science, Webster University | 2013 - 2017 | GPA: 3.75/4.0  | St. Louis, MO
+* B.S. in Computer Science, Webster University | 2013 - 2017 | GPA: 3.75/4.0  | St. Louis, MO
 
 Awards & Honors
 ======
@@ -21,7 +21,7 @@ Awards & Honors
 
 Professional Experience
 ======
-* Quantitative Research Intern, Columbia University, Department of Psychiatry  | June 2026 - Present | New York City, NY
+* Research Intern, Columbia University, Department of Psychiatry  | June 2026 - Present | New York City, NY
   * Identified 3 statistically significant brain-behavior relationships across 518 tests using FDR correction, with each explaining 18-20% incremental variance beyond baseline covariates in 78 participants.
   * Applied regression and PCA to high-dimensional diffusion MRI, clinical, and behavioral data; performed quality control and co-authored a manuscript translating structural network findings into clinically relevant insights.
 
@@ -46,4 +46,4 @@ Skills
 
 Languages
 ======
-* Nepali * English * Hindi
+* Nepali, English, Hindi
