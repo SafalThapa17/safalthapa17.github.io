@@ -53,7 +53,7 @@ and Ensemble Learning
 
 Predicting Cardiovascular Disease Using Classification Models and Ensemble Learning
 
-[Report (PDF)](files/Safal_Saar_Predicting_Cardiovascular_disease_using_classification_models - FINAL.pdf)
+[Report(PDF)](/files/Safal_Saar_Predicting_Cardiovascular_disease_using_classification_model-FINAL.pdf)
 
 ---
 ## Symposiums and Presentations
