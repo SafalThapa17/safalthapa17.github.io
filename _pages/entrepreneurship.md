@@ -5,10 +5,10 @@ author_profile: true
 ---
 
 ## Hemja Agro Private Limited, Co-founder
-1000 MT Post-harvest storage · Pokhara, Nepal · 2020 – Present
+1000 MT Post-harvest storage · Pokhara, Nepal · 2020 – 2024
 · [Website](https://www.hemjaagro.com.np/)
 
-I co-founded a post-harvest storage facility in 2020 and ran its day-to-day operations until 2024, when I moved to the United States for graduate school. The facility serves more than 700 farmers each year. Our core business is storing potato seed, where reliable conditions protect seed quality through the months between harvest and planting.
+I co-founded a post-harvest storage facility in 2020 and ran its day-to-day operations until 2024, when I moved to the United States for graduate school. Currently my team runs the facility. The facility serves more than 700 farmers each year. Our core business is storing potato seed, where reliable conditions protect seed quality through the months between harvest and planting.
 
 We also expanded to serve the wider local food economy. Fruit vendors store apples and cheese with us to keep them fresh longer, and nearby poultry farmers use our facility for safe, hygienic meat storage. By protecting quality and extending shelf life, we help farmers and vendors store and sell their products with confidence.
 
@@ -31,6 +31,6 @@ Creative tourism · Nepal · Co-authored with Freeman Word
 
 A long-term dream project: an artist residency in Nepal that a friend and I hope to build one day. Together, we wrote a full business plan, grounded in research on Nepal's tourism data, for a retreat that combines high-quality lodging, mindful entertainment and a global culinary experience with dedicated time and space for guests to create art.
 
-**Mission:** to bring together people from all walks of life, promote cultural awareness, and give artists and seekers the time and space to do meaningful creative work.
+**Mission:** To bring together people from all walks of life, promote cultural awareness, and give artists and seekers the time and space to do meaningful creative work.
 
 [Read the business plan (PDF)](/files/Divyaghar_Business_Plan.pdf)
