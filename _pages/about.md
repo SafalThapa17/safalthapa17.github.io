@@ -18,7 +18,7 @@ During my master's, class lectures sparked my interest in how statistics and pro
 I started teaching at 16, volunteering to teach English to young monks in Pokhara. I later spent five years as an assistant lecturer in the Department of Computer Engineering at Pokhara Engineering College, teaching more than 100 undergraduates each semester in courses such as Database Management Systems, Operating Systems and Data Mining. Being in the classroom with students has always been one of the things I enjoy most.
 
 **Entrepreneurship** 
-In 2019, I founded a post-harvest storage facility in Nepal that serves more than 700 farmers a year, mostly storing potato seed. Running it showed me how much of a farmer's income depends on decisions made after harvest: when to sell, whether to store, and how to manage spoilage and price risk. It also showed me how little reliable data exists to guide those decisions.
+In 2019, I co-founded a post-harvest storage facility in Nepal that serves more than 700 farmers a year, mostly storing potato seed. Running it showed me how much of a farmer's income depends on decisions made after harvest: when to sell, whether to store, and how to manage spoilage and price risk. It also showed me how little reliable data exists to guide those decisions.
 
 I hold a B.S. in Computer Science from Webster University and an M.S. in Data Science and Engineering from The City College of New York.
 
