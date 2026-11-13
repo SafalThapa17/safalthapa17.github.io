@@ -53,7 +53,7 @@ and Ensemble Learning
 
 Predicting Cardiovascular Disease Using Classification Models and Ensemble Learning
 
-[Report](https://github.com/SafalThapa17/InventorySimulation-and-Statistical-Analysis/blob/92d847d738c3339e233dc9261a29c663feef930b/Safal_Thapa_Project%201_Part_.pdf)
+[Report (PDF)](files/Safal_Saar_Predicting_Cardiovascular_disease_using_classification_models - FINAL.pdf)
 
 ---
 ## Symposiums and Presentations
