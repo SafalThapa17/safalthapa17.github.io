@@ -50,7 +50,7 @@ How should a small retailer decide when to reorder stock? I simulated random cus
 
 ---
 ### Predicting Cardiovascular Disease Using Classification Models and Ensemble Learning
-*· Group Project · DSE I2100 Applied Machine Learning and Data Mining · Fall 2025 *
+*Group project · DSE I2100: Applied Machine Learning and Data Mining · Fall 2025*
 
 We compared six classical and ensemble classifiers, including logistic regression, KNN, decision trees, random forests and boosting, on 70,000 patient records from Kaggle's cardiovascular disease dataset. We added five clinically motivated engineered features and evaluated models on accuracy, precision, recall and AUC, using cross-validation and bootstrapping. Boosting models performed best, which supports their use in primary-care screening.
 
@@ -64,4 +64,4 @@ We compared six classical and ensemble classifiers, including logistic regressio
 
 A class symposium presentation on the intersection of data and art.
 
-[Slides](https://github.com/SafalThapa17/Big-Data_2025/blob/954eca49b5008539449efd1b6b2a159977f79b77/Symposium/Symposium_Presentation.pdf)
+[Slides](/files/Symposium_Presentation.pdf)
